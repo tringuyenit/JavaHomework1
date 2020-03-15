@@ -16,7 +16,6 @@ public class readNwrite {
 
     public boolean test(){
         String testPath[]=System.getProperty("user.dir").split("\\\\");
-        System.out.println(System.getProperty("user.dir"));
         return testPath[testPath.length-2].equals("production");
     }
 
