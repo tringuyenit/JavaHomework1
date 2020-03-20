@@ -30,7 +30,8 @@ myFirstJavaProg/src/finalProject/data
 1. For those who don't know command lines,  
 the program can be run by any Java IDE instead.
 
-2. Passwords must be more than 7 characters and have no special character.
+2. Password must be at least 8 characters long  
+contain a number, an uppercase letter and a special character.
 
 3. There is one default admin data stored in :
 
