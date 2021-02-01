@@ -1,7 +1,5 @@
-# myFirstJavaProg
-This is my first Java program.
-
-It is my practice about reading and writing text file.
+# beginner java homework
+Practicing about reading and writing text file.
 
 The program stores information of users after creating accounts and logging in/out.
 
