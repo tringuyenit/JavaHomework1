@@ -5,7 +5,7 @@ The program stores information of users after creating accounts and logging in/o
 
 ## How to run (from command lines)
 
-1. In your cmd/terminal, navigate to :
+1. In cmd/terminal, navigate to :
 
 ```bash
 myFirstJavaProg/out/production/IdeaProjects
